@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "key": "text_button_restart_progress",
+      "value": "Fortschritt neu starten"
+    },
+    {
+      "key": "text_button_credits",
+      "value": "Creditos"
+    },
+    {
+      "key": "text_button_support",
+      "value": "Unterstutzung"
+    },
+    {
+      "key": "text_button_language",
+      "value": "Sprache"
+    },
+    {
+      "key": "panel_settings_title",
+      "value": "Einstellungen"
+    },
+    {
+      "key": "panel_language_title",
+      "value": "Sprache"
+    }
+  ]
+}

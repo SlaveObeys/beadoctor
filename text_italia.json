@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "key": "welcome_message",
+      "value": "Welcome to the game!"
+    },
+    {
+      "key": "play_button",
+      "value": "Play"
+    },
+    {
+      "key": "panel_settings_title",
+      "value": "Ajustes"
+    },
+    {
+      "key": "panel_language_title",
+      "value": "Idioma"
+    }
+  ]
+}
