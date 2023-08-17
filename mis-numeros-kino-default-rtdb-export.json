@@ -40530,7 +40530,7 @@
       "num_sorteados": "3 4 5 7 8 9 10 13 16 18 21 22 23 24"
     }
   },
-  "Resultados Kino": [
+  "Resultados Kino": {
     {
       "can_ganadores": "0",
       "fecha": "19-09-1990",
@@ -54516,8 +54516,8 @@
       "fecha": "13-08-2023",
       "num_sorteados": "2 3 5 6 8 10 11 12 16 17 20 21 23 24"
     }
-  ],
-  "Resultados ReKino": [
+    },
+  "Resultados ReKino": {
     null,
     null,
     null,
@@ -65051,5 +65051,5 @@
       "fecha": "13-08-2023",
       "num_sorteados": "2 4 5 7 8 12 13 16 19 20 21 23 24 25"
     }
-  ]
+}
 }
