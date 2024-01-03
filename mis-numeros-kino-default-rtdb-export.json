@@ -17131,10 +17131,16 @@
       "numero_sorteo": "2854"
     },
    "2855": {
-      "can_ganadores": "0",
+      "can_ganadores": "1",
       "fecha": "29/12/2023",
       "num_sorteados": "1 2 4 5 6 7 11 12 17 18 19 21 23 24",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "4 7 8 9 11 12 14 15 16 17 18 22 24 25",
+      "numero_sorteo": "2856"
     }
   },
   "Resultados ReKino": {
@@ -29091,10 +29097,16 @@
       "numero_sorteo": "2854"
     },
    "2855": {
-      "can_ganadores": "0",
+      "can_ganadores": "1",
       "fecha": "29/12/2023",
       "num_sorteados": "1 3 4 5 9 12 13 16 17 20 22 23 24 25",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "1 2 3 11 13 14 15 17 18 20 21 22 23 25",
+      "numero_sorteo": "2856"
     }
   },
   "Resultados Chanchito Regalon": {
@@ -36417,6 +36429,12 @@
       "fecha": "29/12/2023",
       "num_sorteados": "1 3 4 6 8 10 12 13 14 19 21 22 23 25",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "1 4 5 6 7 8 10 12 14 15 16 20 22 24",
+      "numero_sorteo": "2856"
     }
   },
   "Resultados Gana Mas": {
@@ -47539,6 +47557,12 @@
       "fecha": "29/12/2023",
       "num_sorteados": "2 5 7 8 9 11 12 13 19 20 21 23 24 25",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "2 4 7 9 10 15 16 17 19 21 22 23 24 25",
+      "numero_sorteo": "2856"
     }
   },
   "Resultados Combo Marraqueta 2": {
@@ -75981,6 +76005,12 @@
       "fecha": "29/12/2023",
       "num_sorteados": "1 2 4 5 6 10 13 14 15 18 19 20 22 25",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "2 5 6 8 9 10 11 13 16 18 19 23 24 25",
+      "numero_sorteo": "2856"
     }
   },
   "Resultados Chao Jefe 2 Millon 50 Años Heredable": {
@@ -78947,6 +78977,12 @@
       "fecha": "29/12/2023",
       "num_sorteados": "1 3 4 5 6 7 8 9 15 17 18 19 20 21",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "1 2 3 5 9 10 11 13 14 15 18 21 22 25",
+      "numero_sorteo": "2856"
     }
   },
   "Resultados Chao Jefe 3 Millon 30 Años Heredable": {
@@ -79495,5 +79531,11 @@
       "fecha": "29/12/2023",
       "num_sorteados": "2 4 5 8 11 12 14 16 17 18 19 20 21 24",
       "numero_sorteo": "2855"
+    },
+   "2856": {
+      "can_ganadores": "0",
+      "fecha": "31/12/2023",
+      "num_sorteados": "2 3 4 7 8 9 11 12 18 19 21 22 24 25",
+      "numero_sorteo": "2856"
     }
 }
