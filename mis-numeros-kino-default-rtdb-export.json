@@ -17531,6 +17531,12 @@
       "fecha": "31/05/2024",
       "num_sorteados": "2 5 6 8 10 12 13 14 15 17 18 20 24 25",
       "numero_sorteo": "2921"
+    },
+   "2922": {
+      "can_ganadores": "0",
+      "fecha": "02/06/2024",
+      "num_sorteados": "1 2 3 4 6 7 8 9 15 16 17 18 24 25",
+      "numero_sorteo": "2922"
     }
   },
   "Resultados ReKino": {
@@ -29887,6 +29893,12 @@
       "fecha": "31/05/2024",
       "num_sorteados": "1 2 6 9 10 11 12 14 15 16 19 21 22 24",
       "numero_sorteo": "2921"
+    },
+   "2922": {
+      "can_ganadores": "0",
+      "fecha": "02/06/2024",
+      "num_sorteados": "2 3 6 8 11 12 13 18 20 21 22 23 24 25",
+      "numero_sorteo": "2922"
     }
   },
   "Resultados Requete Kino": {
@@ -30063,6 +30075,12 @@
       "fecha": "31/05/2024",
       "num_sorteados": "1 3 4 7 8 11 12 15 17 18 19 23 24 25",
       "numero_sorteo": "2921"
+    },
+   "2922": {
+      "can_ganadores": "0",
+      "fecha": "02/06/2024",
+      "num_sorteados": "1 2 3 4 5 6 11 12 15 16 17 19 21 23",
+      "numero_sorteo": "2922"
     }
   },
   "Resultados Chanchito Regalon": {
@@ -52813,6 +52831,12 @@
       "fecha": "31/05/2024",
       "num_sorteados": "1 4 5 6 10 11 12 13 17 19 20 23 24 25",
       "numero_sorteo": "2921"
+    },
+   "2922": {
+      "can_ganadores": "0",
+      "fecha": "02/06/2024",
+      "num_sorteados": "1 3 5 6 8 12 13 14 17 18 19 23 24 25",
+      "numero_sorteo": "2922"
     }
   },
   "Resultados Chao Jefe Recargado 1": {
@@ -81147,6 +81171,12 @@
       "fecha": "31/05/2024",
       "num_sorteados": "1 5 7 8 9 11 12 13 17 18 19 20 21 25",
       "numero_sorteo": "2921"
+    },
+   "2922": {
+      "can_ganadores": "0",
+      "fecha": "02/06/2024",
+      "num_sorteados": "1 2 3 5 9 12 16 18 19 20 22 23 24 25",
+      "numero_sorteo": "2922"
     }
   },
   "Resultados Chao Jefe 3 Millon 30 Años Heredable": {
@@ -82091,5 +82121,11 @@
       "fecha": "31/05/2024",
       "num_sorteados": "4 6 7 10 13 14 16 18 19 20 21 22 23 24",
       "numero_sorteo": "2921"
+    },
+   "2922": {
+      "can_ganadores": "0",
+      "fecha": "02/06/2024",
+      "num_sorteados": "2 3 6 7 10 11 14 15 16 17 20 21 24 25",
+      "numero_sorteo": "2922"
     }
 }
